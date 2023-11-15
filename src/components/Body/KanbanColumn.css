@@ -1,0 +1,22 @@
+.kanban-column{
+    margin: 10px 10px;
+    width:400px;
+}
+
+.headerCard{
+    display: flex;
+      /* justify-content: center; */
+      align-items: center;
+      padding: 10px;
+   
+}
+
+.columnName{
+   
+    font-size: larger;
+}
+
+.ticketCount{
+    padding: 10px;
+    color: grey;
+}

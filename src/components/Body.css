@@ -1,0 +1,13 @@
+.body{
+background-color: rgba(226, 226, 226, 0.932);
+min-width: 100%;
+min-height: 100vh;
+display: flex;
+flex-direction:row;
+position:relative;
+top: -84px;
+z-index:1;
+overflow-x: auto;
+scroll-margin-bottom: 0;
+}
+
